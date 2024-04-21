@@ -31,3 +31,14 @@ The analyses were complemented by interactive visualizations created using Table
 
 Find the link to Tableau Dashboard [here](https://public.tableau.com/views/HRAnalytics_17136631228760/HRAnalytics?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) and a preview below:
 
+![Screenshot of Tableau Dashboard](https://github.com/NvkAnirudh/HR-Analytics-Using-SQL-and-Tableau/blob/main/Tableau_dashboard.jpeg)
+
+### Conclusion
+By combining SQL analysis with visualizations in Tableau, this project facilitated a comprehensive understanding of factors influencing employee attrition, job satisfaction, and performance ratings. The insights derived from the analysis can inform strategic decisions related to talent management, employee engagement, and organizational development.
+
+### Future Enhancements
+1. Incorporate predictive modeling techniques to forecast employee attrition and identify at-risk employees.
+   
+3. Conduct sentiment analysis of employee feedback data to gauge overall employee sentiment and satisfaction.
+4. Implement real-time data monitoring and reporting dashboards for ongoing workforce analytics.
+
